@@ -1,5 +1,11 @@
 # ICJ Bootstrap Template
 
+Bootstrap Project
+
+By Henry Corwin
+
+Due on Friday, March 26th, 2021
+
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
 ## How to set up your project
